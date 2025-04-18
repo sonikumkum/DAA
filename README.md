@@ -1,1 +1,1 @@
-# DAA
+The main objective of this project is to develop a basic simulation of an Air Traffic Control System that helps users determine the shortest and most efficient path between two airports using pre-defined routes. It aims to provide a user-friendly graphical interface that visualizes airport networks and route distances, helping in understanding how real-world air traffic routing can be modeled using graph algorithms.
